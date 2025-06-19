@@ -7,8 +7,10 @@
 
 ---
 
-## Project Link
-https://www.kaggle.com/code/muskanchinchkhede/zomato-bangalore-eda-project/edit
+## 🔗 Project Link
+
+🔗 View the Full Kaggle Notebook Here
+
 ---
 
 ## 🗂️ Dataset
