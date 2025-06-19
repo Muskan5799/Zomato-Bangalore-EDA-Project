@@ -7,6 +7,10 @@
 
 ---
 
+## Project Link
+https://www.kaggle.com/code/muskanchinchkhede/zomato-bangalore-eda-project/edit
+---
+
 ## 🗂️ Dataset
 
 - **Source**: Zomato Bangalore Restaurants Dataset
