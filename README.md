@@ -13,6 +13,7 @@
 ## 🔗 Project Link
 
 [🔗 View the Full Kaggle Notebook Here](https://www.kaggle.com/code/muskanchinchkhede/zomato-bangalore-eda-project)
+
 ![images](https://github.com/user-attachments/assets/c7c88b27-d219-40ad-86eb-33e543db5c6f)
 
 ---
