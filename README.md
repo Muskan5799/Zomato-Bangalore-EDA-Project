@@ -10,6 +10,10 @@
 
 ---
 
+![images.jpg](attachment:c0651a35-6d36-4fdb-8487-5b140301a081.jpg)
+
+---
+
 ## 🔗 Project Link
 
 [🔗 View the Full Kaggle Notebook Here](https://www.kaggle.com/code/muskanchinchkhede/zomato-bangalore-eda-project)
