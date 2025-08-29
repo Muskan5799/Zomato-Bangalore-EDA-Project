@@ -3,6 +3,8 @@
 ## 📌 Objective
 - Analyze Bangalore's restaurant data to uncover cuisine trends, location patterns, price-rating relationships, service impacts, and provide actionable insights for business decisions.
 
+<img width="1536" height="1024" alt="ChatGPT Image Aug 29, 2025, 05_04_15 PM" src="https://github.com/user-attachments/assets/059405d0-6e66-4b4b-862e-b2a2d9b3da71" />
+
 ## 🔗 Project Link
 
  View the Full Kaggle Notebook Here](https://www.kaggle.com/code/muskanchinchkhede/zomato-bangalore-eda-project)
