@@ -1,14 +1,7 @@
-
-
-  ## 🍽️ Zomato Bangalore EDA Project
----
-
-
+ ## 🍽️ Zomato Bangalore EDA Project
+ 
 ## 📌 Objective
-
 - Analyze Bangalore's restaurant data to uncover cuisine trends, location patterns, price-rating relationships, service impacts, and provide actionable insights for business decisions.
-
----
 
 ## 🔗 Project Link
 
@@ -16,23 +9,17 @@
 
 ![images](https://github.com/user-attachments/assets/c7c88b27-d219-40ad-86eb-33e543db5c6f)
 
----
-
 ## 🗂️ Dataset
 
 - **Source**: Zomato Bangalore Restaurants Dataset
 - **Size**: ~9,000+ restaurants data
 - **Fields**: Name, Location, Cuisines, Average Cost, Online Order Availability, Table Booking, Ratings, etc.
 
----
-
 ## 🛠️ Tools & Technologies
 
 - Python (Pandas, NumPy)
 - Data Visualization (Matplotlib, Seaborn)
 - Kaggle Notebook
-
----
 
 ## 📊 Key Insights
 
@@ -54,8 +41,6 @@ North Indian, Chinese, and South Indian cuisines dominate customer preferences. 
 6️⃣ **Table Booking Effect**  
 Table booking services contribute to higher customer satisfaction and slightly better ratings.
 
----
-
 ## 📌 Recommendations
 
 1️⃣ **Focus on Popular Restaurant Types**  
@@ -76,13 +61,9 @@ Include North Indian, Chinese, and South Indian options to appeal to a broad aud
 6️⃣ **Enable Table Booking**  
 Provide reservation options to enhance customer experience.
 
----
-
 ## 📈 Conclusion
 
 The Bangalore restaurant market is highly competitive, with strong demand for affordable, fast, and multi-cuisine dining options. Online delivery, table booking, and location selection are key drivers for customer engagement and business success. Restaurants focusing on service quality, digital presence, and customer preferences are more likely to succeed in this dynamic environment.
-
----
 
 ## 🔗 Acknowledgements
 
