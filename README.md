@@ -22,7 +22,7 @@ In summary, this project transforms raw restaurant data into **actionable insigh
 
 ## 🔗 Project Link
 
- View the Full Kaggle Notebook Here](https://www.kaggle.com/code/muskanchinchkhede/zomato-bangalore-eda-project) 
+Kaggle Notebook  (https://www.kaggle.com/code/muskanchinchkhede/zomato-bangalore-eda-project) 
 
 
 
