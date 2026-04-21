@@ -1,4 +1,4 @@
- # 🍽️ Zomato Bangalore Restaurants EDA
+ # 🍽️ Zomato Bangalore Restaurant Analysis
 Exploratory Data Analysis of **Zomato’s Bangalore restaurant dataset** to uncover insights on customer preferences, cuisines, pricing trends, and popular restaurant types across the city.
 
 ## 📌 Project Overview / Introduction
